@@ -1,0 +1,96 @@
+body {
+    width: 100%;
+    background: url(../assets/image/Menu\ Classique/mur_bois.jpeg);
+}
+
+
+.site  {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.site  a{
+    color: rgb(255, 196, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+
+
+.container h1  {
+
+    text-align: center;
+    margin-top: 5%;
+    color: rgb(231, 200, 20);
+    font-weight: bold;
+    font-size: 4rem;
+    text-shadow: 3px 3px black;
+    
+}
+
+
+nav ul {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5%;
+    color: gold;
+
+}
+
+nav a {
+    color: rgb(234, 174, 36);
+    text-shadow: 2px 2px black;
+    font-size: 1.5em;
+    
+}
+
+
+img {
+    height: 250px;
+    width: 250px;
+    
+}
+
+
+.thumbnail {
+    border: black solid 2px;
+    text-align: center;
+    margin: 5px;
+    background-color: rgb(251, 251, 248);
+    height: 450px;
+    width: 400px;
+    border-radius: 2%;
+    margin-top: 5%;
+
+    
+
+}
+
+
+.thumbnail:hover {
+    background: beige;
+}
+
+
+
+.caption {
+
+    color: rgb(6, 21, 101);
+    cursor: pointer;
+
+}
+
+h4 {
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    
+    
+}
+
+p {
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+
+}
