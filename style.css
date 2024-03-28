@@ -1,7 +1,7 @@
 body {
 
     background: rgb(12, 2, 89);
-    width: 100%;
+    
 
 }
 
@@ -93,4 +93,8 @@ p {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 18px;
 
+}
+
+.admini {
+    background: aliceblue;
 }

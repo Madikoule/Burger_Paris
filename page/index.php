@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet"  href="./style.css">
+    <link rel="stylesheet"  href="../style.css">
     <title>Burger Paris</title>
 
 </head>
@@ -32,7 +32,7 @@
         <div class="row" >
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <img src="assets/image/Menu premium/Double Whipper cheese.jpeg"  alt="..">
+                    <img src="../assets/image/Menu premium/Double Whipper cheese.jpeg"  alt="..">
                     <div>8.90 €</div>
                     <divc class="caption">
                         <h4>Menu premium</h4>
@@ -44,7 +44,7 @@
             
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <img src="assets/image/Menu /Menu Cheeseburger.png" alt="..">
+                    <img src="../assets/image/Menu /Menu Cheeseburger.png" alt="..">
                     <div>8.90 €</div>
                     <divc class="caption">
                         <h4>Menu Burger</h4>
@@ -56,7 +56,7 @@
             
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <img src="assets/image/Menu /Menu Chiken Buger.jpeg" alt="..">
+                    <img src="../assets/image/Menu /Menu Chiken Buger.jpeg" alt="..">
                     <div>8.90 €</div>
                     <divc class="caption">
                         <h4>Menu Chiken Burger</h4>
@@ -68,7 +68,7 @@
 
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <img src="assets/image/Menu /Menu le Mexicain Beef.png" alt="..">
+                    <img src="../assets/image/Menu /Menu le Mexicain Beef.png" alt="..">
                     <div>8.90 €</div>
                     <divc class="caption">
                         <h4>Menu Premium</h4>
@@ -80,7 +80,7 @@
 
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <img src="assets/image/Menu premium/Menus Trible Wooper beef.jpeg" alt="..">
+                    <img src="../assets/image/Menu premium/Menus Trible Wooper beef.jpeg" alt="..">
                     <div>8.90 €</div>
                     <divc class="caption">
                         <h4>Menu Whopper X3</h4>
@@ -92,7 +92,7 @@
             
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <img src="assets/image/Menu /Menu Whopper Junior.jpeg" alt="..">
+                    <img src="../assets/image/Menu /Menu Whopper Junior.jpeg" alt="..">
                     <div>8.90 €</div>
                     <divc class="caption">
                         <h4>Menu Whopper Junior</h4>
