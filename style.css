@@ -1,6 +1,8 @@
 body {
+
+    background: rgb(12, 2, 89);
     width: 100%;
-    background: url(../assets/image/Menu\ Classique/mur_bois.jpeg);
+
 }
 
 
@@ -24,11 +26,9 @@ body {
     color: rgb(231, 200, 20);
     font-weight: bold;
     font-size: 4rem;
-    text-shadow: 3px 3px black;
+    text-shadow: 3px 3px rgb(205, 15, 15);
     
 }
-
-
 nav ul {
     display: flex;
     justify-content: space-evenly;
@@ -62,8 +62,6 @@ img {
     border-radius: 2%;
     margin-top: 5%;
 
-    
-
 }
 
 
@@ -80,6 +78,7 @@ img {
 
 }
 
+
 h4 {
     color: red;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -87,6 +86,7 @@ h4 {
     
     
 }
+
 
 p {
     font-weight: bold;

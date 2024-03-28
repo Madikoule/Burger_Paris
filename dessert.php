@@ -11,7 +11,7 @@
 
 
     <div class="container site">
-        <h1 class="text-logo"><span class="glyphicon glyphicon-cutlery"> <a href="./index.html"></span> Nos Dessert <span class="glyphicon glyphicon-cutlery"></span></a></h1>
+        <h1 class="text-logo"><span class="glyphicon glyphicon-cutlery"> <a href="./index.php"></span> Nos Dessert <span class="glyphicon glyphicon-cutlery"></span></a></h1>
     
 
 

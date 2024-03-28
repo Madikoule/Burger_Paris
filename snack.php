@@ -1,18 +1,17 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet"  href="./style.css">
-
-    <title>Salade</title>
+    <title>Menu Enfants</title>
 </head>
 <body>
 
 
     <div class="container site">
-        <h1 class="text-logo"><span class="glyphicon glyphicon-cutlery"> <a href="./index.html"></span> Nos Salade <span class="glyphicon glyphicon-cutlery"></span></a></h1>
+        <h1 class="text-logo"><span class="glyphicon glyphicon-cutlery"> <a href="./index.php"></span> Menu kids <span class="glyphicon glyphicon-cutlery"></span></a></h1>
     
 
 
@@ -21,41 +20,59 @@
         <div class="row">
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <img src="./assets/image/Salade/salade_chiken.jpeg" alt="..">
+                    <img src="assets/image/Menus enfant/menu chiken Nugget Meal 9 pieces.png" alt="..">
                     <div>8.90 €</div>
                     <divc class="caption">
-                        <h4>Menu premium</h4>
-                        <p>Salade Chicken </p>
+                        <h4>Menu kid</h4>
+                        <p> Nugget x4 Jeu happy </p>
                         <a href="#" class="btn btn-order" role="button">Commander<span class="glyphicon glyphicon-cutlery"></span></a>
                     </divc>
                 </div>
             </div>
             
+            <div class="col-sm-6 col-md-4">
+                <div class="thumbnail">
+                    <img src="assets/image/Menus enfant/Menu Chiken stip 6 pieces.jpeg" alt="..">
+                    <div>8.90 €</div>
+                    <divc class="caption">
+                        <h4> Chicken Wings</h4>
+                        <p>Chicken wings 6 pièce</p>
+                        <a href="#" class="btn btn-order" role="button">Commander<span class="glyphicon glyphicon-cutlery"></span></a>
+                    </divc>
+                </div>
+            </div>
+
+
+            <div class="col-sm-6 col-md-4">
+                <div class="thumbnail">
+                    <img src="assets/image/Menus enfant/Menu Kid Chiken Nuggets.jpeg" alt="..">
+                    <div>8.90 €</div>
+                    <divc class="caption">
+                        <h4>Menu Happy kid</h4>
+                        <p>Nuggets Meal 9 Pcs </p>
+                        <a href="#" class="btn btn-order" role="button">Commander<span class="glyphicon glyphicon-cutlery"></span></a>
+                    </divc>
+                </div>
+            </div>
+
+
+            <div class="col-sm-6 col-md-4">
+                <div class="thumbnail">
+                    <img src="assets/image/Menus enfant/Menu Kid Hamburger.jpeg" alt="..">
+                    <div>8.90 €</div>
+                    <div class="caption">
+                        <h4>Menu Kid Gourmand</h4>
+                        <p>Cheeseburger , Nuggets , Compote </p>
+                        <a href="#" class="btn btn-order" role="button">Commander<span class="glyphicon glyphicon-cutlery"></span></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
     
+    
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 
-            <div class="col-sm-6 col-md-4">
-                <div class="thumbnail">
-                    <img src="./assets/image/Salade/salade_garden.png" alt="..">
-                    <div>8.90 €</div>
-                    <divc class="caption">
-                        <h4>Menu Garden</h4>
-                        <p>Salade composés mozarella </p>
-                        <a href="#" class="btn btn-order" role="button">Commander<span class="glyphicon glyphicon-cutlery"></span></a>
-                    </divc>
-                </div>
-            </div>
-
-
-            <div class="col-sm-6 col-md-4">
-                <div class="thumbnail">
-                    <img src="./assets/image/Salade/salad_fish.png" alt="..">
-                    <div>8.90 €</div>
-                    <divc class="caption">
-                        <h4>Menu XL</h4>
-                        <p>Salade Fish </p>
-                        <a href="#" class="btn btn-order" role="button">Commander<span class="glyphicon glyphicon-cutlery"></span></a>
-                    </divc>
-                </div>
-            </div>
 </body>
 </html>

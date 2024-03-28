@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,9 +8,10 @@
     <title>Burger Paris</title>
 
 </head>
+
 <body>
 
-    <div class="container site">
+    <div class="container site ">
         <h1 class="text-logo"><span class="glyphicon glyphicon-cutlery"></span> Burger-Paris <span class="glyphicon glyphicon-cutlery"></span></h1>
     
 
@@ -19,17 +20,19 @@
     <ul>
         <li role="presentation" class="active"><a href="#1" data-toggle="tab">Menus</a></li>
         <li role="presentation" class="#2"><a href="#1" data-toggle="tab">Burgers</a></li>
-        <li role="presentation" class="#4"><a href="./salade.html" data-toggle="tab">Salades</a></li>
-        <li role="presentation" class="#3"><a href="./snack.html" data-toggle="tab">Menu Enfants</a></li>
-        <li role="presentation" class="#6"><a href="./dessert.html" data-toggle="tab">Dessert</a></li>
+        <li role="presentation" class="#4"><a href="./salade.php" data-toggle="tab">Salades</a></li>
+        <li role="presentation" class="#3"><a href="./snack.php" data-toggle="tab">Menu Enfants</a></li>
+        <li role="presentation" class="#6"><a href="./dessert.php" data-toggle="tab">Dessert</a></li>
     </ul>
 </nav>
-<div class="tab-content">
+
+
+<div class="tab-content ">
     <div class="tab-pane active" id="1">
-        <div class="row">
+        <div class="row" >
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <img src="assets/image/Menu premium/Double Whipper cheese.jpeg" alt="..">
+                    <img src="assets/image/Menu premium/Double Whipper cheese.jpeg"  alt="..">
                     <div>8.90 €</div>
                     <divc class="caption">
                         <h4>Menu premium</h4>
