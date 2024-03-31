@@ -1,6 +1,8 @@
 <?php
 
-class Database   // orientée objet
+
+
+class Database   //  crées une class orientée objet
 {
 
     // creer les variable pour les inserer directement dans la base donneées .
@@ -16,7 +18,7 @@ class Database   // orientée objet
     {
         try
             {     // base de donnée avec les 3 argument " " ,
-                // quand je suis dans une class et que je veux utilisé une propriété static je doit utilisé LE MOTS SELF::
+                // quand je suis dans une class et que je veux utilisé une propriété static je doit utilisé LE prefixe (SELF::)
             self::$connection = new PDO("mysql:host" . self::$dbHost . ";dbname" . self::$dbName, self::$dbUser, self::$dbUserPassword);
             }
 
@@ -38,8 +40,7 @@ class Database   // orientée objet
 
 
 
-Database::connect()
-
+Database::connect();
 
 
 

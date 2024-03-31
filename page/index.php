@@ -23,16 +23,17 @@
         <li role="presentation" class="#4"><a href="./salade.php" data-toggle="tab">Salades</a></li>
         <li role="presentation" class="#3"><a href="./snack.php" data-toggle="tab">Menu Enfants</a></li>
         <li role="presentation" class="#6"><a href="./dessert.php" data-toggle="tab">Dessert</a></li>
+
     </ul>
 </nav>
 
 
-<div class="tab-content ">
+<div class="tab-content  >
     <div class="tab-pane active" id="1">
         <div class="row" >
-            <div class="col-sm-6 col-md-4">
-                <div class="thumbnail">
-                    <img src="../assets/image/Menu premium/Double Whipper cheese.jpeg"  alt="..">
+            <div class="col-sm-6 col-md-4 ">
+                <div class="thumbnail" >
+                    <img src="../assets/image/Menu premium/Double Whipper cheese.jpeg"  alt=".." >
                     <div>8.90 €</div>
                     <divc class="caption">
                         <h4>Menu premium</h4>

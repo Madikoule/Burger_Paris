@@ -1,6 +1,7 @@
 body {
 
     background: rgb(12, 2, 89);
+    width: auto;
     
 
 }
@@ -98,3 +99,6 @@ p {
 .admini {
     background: aliceblue;
 }
+
+
+
