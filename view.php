@@ -4,7 +4,7 @@
 
     if(!empty($_GET['id'])) 
     {
-        $id = checkInput($_GET['id']);
+        $id = checkInput($_GET['id']);   // nettoyer les donnée
     }
 
     // connexion base de données
