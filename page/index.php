@@ -35,11 +35,11 @@
                 <div class="thumbnail" >
                     <img src="../assets/image/Menu premium/Double Whipper cheese.jpeg"  alt=".." >
                     <div>8.90 €</div>
-                    <divc class="caption">
+                    <div class="caption">
                         <h4>Menu premium</h4>
                         <p>Sandwitch: Double Whipper, Salade, Tomate, Cornichon </p>
                         <a href="#" class="btn btn-order" role="button">Commander<span class="glyphicon glyphicon-cutlery"></span></a>
-                    </divc>
+                    </div>
                 </div>
             </div>
             
@@ -47,11 +47,11 @@
                 <div class="thumbnail">
                     <img src="../assets/image/Menu /Menu Cheeseburger.png" alt="..">
                     <div>8.90 €</div>
-                    <divc class="caption">
+                    <div class="caption">
                         <h4>Menu Burger</h4>
                         <p>Sandwitch: Burger, Salade, Tomate, Cornichon + Frites + Boisson</p>
                         <a href="#" class="btn btn-order" role="button"> Commander<span class="glyphicon glyphicon-cutlery"></span></a>
-                    </divc>
+                    </div>
                 </div>
             </div>
             
@@ -59,11 +59,11 @@
                 <div class="thumbnail">
                     <img src="../assets/image/Menu /Menu Chiken Buger.jpeg" alt="..">
                     <div>8.90 €</div>
-                    <divc class="caption">
+                    <div class="caption">
                         <h4>Menu Chiken Burger</h4>
                         <p>Sandwitch: Chiken burger, Salade, Tomate, Cornichon + Frites + Boisson</p>
                         <a href="#" class="btn btn-order" role="button">Commander<span class="glyphicon glyphicon-cutlery"></span></a>
-                    </divc>
+                    </div>
                 </div>
             </div>
 
@@ -71,11 +71,11 @@
                 <div class="thumbnail">
                     <img src="../assets/image/Menu /Menu le Mexicain Beef.png" alt="..">
                     <div>8.90 €</div>
-                    <divc class="caption">
+                    <div class="caption">
                         <h4>Menu Premium</h4>
                         <p>Sandwitch: Long-Burger Grill, Salade, Tomate, Cornichon + Frites + Boisson</p>
                         <a href="#" class="btn btn-order" role="button">Commander<span class="glyphicon glyphicon-cutlery"></span></a>
-                    </divc>
+                    </div>
                 </div>
             </div>
 
@@ -83,11 +83,11 @@
                 <div class="thumbnail">
                     <img src="../assets/image/Menu premium/Menus Trible Wooper beef.jpeg" alt="..">
                     <div>8.90 €</div>
-                    <divc class="caption">
+                    <div class="caption">
                         <h4>Menu Whopper X3</h4>
                         <p>Sandwitch: Triple Burger Grill, Salade, Tomate, Cornichon + Frites + Boisson</p>
                         <a href="#" class="btn btn-order" role="button">Commander<span class="glyphicon glyphicon-cutlery"></span></a>
-                    </divc>
+                    </div>
                 </div>
             </div>
             
@@ -95,11 +95,11 @@
                 <div class="thumbnail">
                     <img src="../assets/image/Menu /Menu Whopper Junior.jpeg" alt="..">
                     <div>8.90 €</div>
-                    <divc class="caption">
+                    <div class="caption">
                         <h4>Menu Whopper Junior</h4>
                         <p>Sandwitch: Burger Grill, Salade, Tomate, Cornichon + Frites + Boisson</p>
                         <a href="#" class="btn btn-order" role="button">Commander<span class="glyphicon glyphicon-cutlery"></span></a>
-                    </divc>
+                    </div>
                 </div>
             </div>
         </div>
